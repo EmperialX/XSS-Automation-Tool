@@ -43,4 +43,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contributions are welcome! If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request.
 
 # Authors
-[Shashi Raj] - Initial work - @EmperailX
+Shashi Raj - Initial work
+@EmperailX
