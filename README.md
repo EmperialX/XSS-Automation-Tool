@@ -17,15 +17,19 @@ Install the required libraries by running
 To use the XSS automation tool, run the following command:
 >> python xss_scanner.py http://example.com xss_payloads.txt reflected url get base64
 
+
+# Write the payloads to a text file
+
 create own payloads to a text file:
+
 >> xss_payloads = [
     <scripts@example>
 ]
-
-# Write the payloads to a text file
 with open('xss_payloads.txt', 'w') as f:
     for payload in xss_payloads:
         f.write(payload + '\n')
+        
+        
 This is create xss_payload.txt file
 
 # Note
