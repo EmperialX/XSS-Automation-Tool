@@ -1,6 +1,6 @@
 # XSS Automation Tool
 This tool is designed to help hackers identify and exploit cross-site scripting (XSS) vulnerabilities in web applications. XSS vulnerabilities occur when an application includes user-supplied data in its responses without properly sanitizing it, allowing an attacker to inject malicious code into the response that is then executed by the victim's browser.
-<img src="https://user-images.githubusercontent.com/98850848/211228002-3c03fbd3-ce09-4338-bca9-e07f3ef59756.jpg" width="200" height="100">
+<img src="https://user-images.githubusercontent.com/98850848/211228002-3c03fbd3-ce09-4338-bca9-e07f3ef59756.jpg" width="300" height="150">
 
 # Requirements
 Python 3.6 or newer
