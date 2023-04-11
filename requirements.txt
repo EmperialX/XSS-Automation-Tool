@@ -1,7 +1,4 @@
-requests
-asyncio
-threading
+request
 schedule
-base64
 urllib.parse
 html
