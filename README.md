@@ -16,7 +16,7 @@ git clone https://github.com/EmperialX/XSS-Automation-Tool.git
 
 Install the required libraries by running 
 ```
-pip install request schedule asyncio html
+pip install requests schedule asyncio html
 ```
 
 ## Usage
